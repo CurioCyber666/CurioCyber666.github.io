@@ -4,7 +4,7 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>naxatouch</title>
+    <title>articles</title>
 </head>
 <body>
   <header>
@@ -14,9 +14,9 @@
   <nav>
     <table cellspacing="3" cellpadding="3">
       <tr>
-        <td>home</td>
-        <td>articles</td>
-        <td>contact</td>
+        <td><a href="index.html">home</a></td>
+        <td><a href="articles.hml">articles</a></td>
+        <td><a href="contact.html">contact</a></td>
       </tr>
    </nav>
 </body>
